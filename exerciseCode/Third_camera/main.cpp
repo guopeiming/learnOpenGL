@@ -1,3 +1,5 @@
+/*重点强调opengl中相机的使用，相机坐标系的转化问题*/
+
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <stb_image.h>
