@@ -1,3 +1,5 @@
+/*重点强调纹理贴图的使用，以及多个贴图如何搞定，在片元着色器上其实需要将两个纹理混合一下*/
+
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include <stb_image.h>
